@@ -19,7 +19,6 @@ pipeline {
             }
         }
 
-
         stage('Checkout Jenkins Upgrade3 Git Repository') {
             steps {
                 script {
